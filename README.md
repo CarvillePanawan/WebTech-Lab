@@ -1,6 +1,9 @@
 # WebTech-Lab
 9325B 
 
+To do:
+1. Create purely HTML5 websites for each of the three advocacies.
+
 HTML Validators:
 1. html5.validator.nu
 2. validator.w3.org
