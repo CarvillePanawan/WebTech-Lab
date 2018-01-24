@@ -2,7 +2,9 @@
 9325B 
 
 To do:
-1. Create purely HTML5 websites for each of the three advocacies.
+1. Website 1: Panawan, Carville D.
+2. Website 2: 
+3. Website 3:
 
 HTML Validators:
 1. html5.validator.nu
