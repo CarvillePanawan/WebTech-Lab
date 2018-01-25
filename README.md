@@ -2,9 +2,9 @@
 9325B 
 
 To do:
-1. Website 1(Environmental Protection): Panawan, Carville D.
-2. Website 2(Human Rights): Angen, Hendrix Aquino
-3. Website 3(Gender Equality): San Juan, Jan Paula
+1. Website 1: Panawan, Carville D.
+2. Website 2: Angen, Hendrix Aquino
+3. Website 3: San Juan, Jan Paula
 
 HTML Validators:
 1. html5.validator.nu
