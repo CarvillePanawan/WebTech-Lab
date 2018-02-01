@@ -6,25 +6,9 @@
     </head>
     
     <body>
-        <div id="header_container">
-         <div id="header">
-             Barangay Name
-                <div class="drop_top">
-                    <button class="d_button">&#9776;</button>
-                    <div class="drop_content header_one">
-                        <a href="../HTML/Index.html">Home</a>
-                        <a href="../HTML/Gallery.html">Gallery</a>
-                        <a href="../HTML/AboutUs.html">About Us</a>
-                        <a href="../HTML/Map.html">Map</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-     <div id="container">
-        <div id="content">
-            Home
-        </div>
+        <h1>
+            Gender Equality Advocacy
+        </h1>
         
         <h2>
             Issues that Homosexuals, Bisexuals and Transgenders Face:
