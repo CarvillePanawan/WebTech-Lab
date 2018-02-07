@@ -12,10 +12,13 @@ Notes:
 2. CSS Advocacy 2: Gender Equality(San Juan, Jan Paula||Cruz, Vincent)
 3. CSS Advocacy 3: Environmental Protection(Panawan, Carville)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 Done:
 1. HTML Advocacy 1: Human Rights
 2. HTML Advocacy 2: Gender Equality
 3. HTML Advocacy 3: Environmental Protection
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 HTML Validators:
 1. html5.validator.nu
