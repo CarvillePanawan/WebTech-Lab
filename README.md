@@ -2,8 +2,14 @@
 9325B 
 
 To do:
-1. CSS Advocacy 1: Human Rights()
-2. CSS Advocacy 2: Gender Equality()
+------------------------------------------------------------------------------------------------------------------------------------------
+Deadline: Feb. 9 2018
+Notes:
+1. Please validate your CSS
+2. Ensure that your CSS is compatible with any browser.
+------------------------------------------------------------------------------------------------------------------------------------------
+1. CSS Advocacy 1: Human Rights(Agen, Hendrix||Uy, David)
+2. CSS Advocacy 2: Gender Equality(San Juan, Jan Paula||Cruz, Vincent)
 3. CSS Advocacy 3: Environmental Protection(Panawan, Carville)
 
 Done:
