@@ -1,8 +1,6 @@
 body {
     background: linear-gradient(red,orange,yellow,blue,violet,green);
-    
-    color:black;
-    
+    color:black; 
 }
 
 h1 {
@@ -27,6 +25,7 @@ h6 {
 }
 
 a {
+    color: pink;
     border-style: solid;
     border-width: 1px;
 }
