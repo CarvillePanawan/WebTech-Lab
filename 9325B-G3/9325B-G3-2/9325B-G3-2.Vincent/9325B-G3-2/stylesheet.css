@@ -1,17 +1,23 @@
 body {
     background: url("background 6.png") no-repeat center fixed; 
     background-size: cover;
-    color:white;
-    
+    color:white;   
 }
+
 h1 {
     font-family: "Courier New";
 }
+
+h6 {
+    text-align: center;
+    color: aqua;
+    font-size: 12px;
+}
+
 #content {
-  text-align: left;
+    text-align: left;
     font-family: "Courier New";
     font-size: 50px;
-    
 }
 
 #buttons {
@@ -23,43 +29,32 @@ h1 {
 }
 
 li a {
-    
     color: white;
 }
 
 li a.one:hover{
-    
     background-color: grey;
     color: black;
-
 }
 
 li a.two:hover{
-    
     background-color: grey;
     color: black;
-
 }
 
 li a.three:hover{
-    
     background-color: grey;
     color: black;
-
 }
 
 li a.Four:hover{
-    
     background-color: grey;
     color: black;
-
 }
 
 li a.Five:hover{
-    
     background-color: grey;
     color: black;
-
 }
 
 li a.one{
@@ -116,3 +111,6 @@ div.gallery {
     height: auto;
 }
 
+#footer {
+    color: aqua;
+}
