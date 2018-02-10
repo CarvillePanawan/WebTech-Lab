@@ -1,0 +1,39 @@
+.wrapper {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 3%;
+    color: #444;
+}
+
+.box {
+    margin-top: 5%;
+    background-color: rgba(0,0,0,0.2);
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+    height: 10em;
+}
+
+.box img {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    cursor: pointer;
+    margin: 0 auto;
+    color: #fff;
+}
+
+#wrapper {
+    height: 15%;
+    width: 50%;
+    padding-left: 25%;
+}
+
+.o_struct {
+    max-height: 100%;
+    max-width: 100%;
+}
