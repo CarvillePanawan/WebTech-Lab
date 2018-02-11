@@ -1,10 +1,16 @@
 body {
+<<<<<<< HEAD
     margin-top: 100vh;
     height: 75.5vh;
     padding: 0;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
+=======
+    height: 75.5vh;
+    padding: 0;
+    margin: 100vh 0 0 0 ;
+>>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
     background-image: url(../styles/images/index.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -93,7 +99,11 @@ footer {
 
 #middle {
     float: left;
+<<<<<<< HEAD
     width: 33.07%;
+=======
+    width: 33.33%;
+>>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
     height: 50vh;
     display: block;
     top: 100%;
