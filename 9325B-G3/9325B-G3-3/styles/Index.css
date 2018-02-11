@@ -1,0 +1,290 @@
+body {
+    margin-top: 100vh;
+    height: 75.5vh;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    background-image: url(../styles/images/index.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-image: url(../styles/images/index.jpeg);
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    position: absolute;
+    top: 175vh;
+    bottom: 0;
+    background-color: #222;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+#intro {
+    background-color: rgba(0,0,0,0.899);
+    width: 40%;
+    height: 35%;
+    color: #fff;
+    margin: 0 auto;
+    top: 30%;
+    padding: 10px;
+    position: relative;
+}
+
+#one {
+    padding-top: 13%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 2em;
+}
+
+#two {
+    text-align: center;
+    font-size: 2em;
+}
+
+#left {
+    float: left;
+    width: 33%;
+    height: 50vh;
+    display: block;
+    top: 100%;
+    border: black solid 2px;
+    background-image: url(../styles/images/intro.jpeg);
+    background-size: cover;
+    background-position: 50% 25%;
+    cursor: pointer;
+}
+
+#left:hover #top {
+    margin-top: -38%;
+}
+
+#left:hover > #bottom {
+    margin-top: 76%;
+}
+
+#left:hover #top1 {
+    margin-top: -38%;
+}
+
+#left:hover > #bottom1 {
+    margin-top: 76%;
+}
+
+#left:hover #top2 {
+    margin-top: -38%;
+}
+
+#left:hover > #bottom2 {
+    margin-top: 76%;
+}
+
+#middle {
+    float: left;
+    width: 33.07%;
+    height: 50vh;
+    display: block;
+    top: 100%;
+    border: black solid 2px;
+    background-image: url(../styles/images/advocacy.jpg);
+    background-size: cover;
+    background-position: 50% 25%;
+    cursor: pointer;
+}
+
+#middle:hover #top {
+    margin-top: -38%;
+}
+
+#middle:hover > #bottom {
+    margin-top: 76%;
+}
+
+#middle:hover #top1 {
+    margin-top: -38%;
+}
+
+#middle:hover > #bottom1 {
+    margin-top: 76%;
+}
+
+#middle:hover #top2 {
+    margin-top: -38%;
+}
+
+#middle:hover > #bottom2 {
+    margin-top: 76%;
+}
+
+#right {
+    float: right;
+    width: 33.04%;
+    height: 50vh;
+    display: block;
+    top: 100%;
+    border: black solid 2px;
+    background-image: url("../styles/images/gallery.jpeg");
+    background-size: cover;
+    background-position: 50% 25%;
+    cursor: pointer;
+}
+
+#right:hover #top {
+    margin-top: -38%;
+}
+
+#right:hover > #bottom {
+    margin-top: 76%;
+}
+
+#right:hover #top1 {
+    margin-top: -38%;
+}
+
+#right:hover > #bottom1 {
+    margin-top: 76%;
+}
+
+#right:hover #top2 {
+    margin-top: -38%;
+}
+
+#right:hover > #bottom2 {
+    margin-top: 76%;
+}
+
+#top {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    line-height: 40vh;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#bottom {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#top1 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    line-height: 40vh;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#bottom1 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#top2 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    line-height: 40vh;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#bottom2 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#top3 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    line-height: 40vh;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
+
+#bottom3 {
+    background-color: rgba(0,0,0,0.5);
+    height: 25vh;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+    -webkit-transition: margin-top 1s ease;
+    -moz-transition: margin-top 1s ease;
+    -ms-transition: margin-top 1s ease;
+    -o-transition: margin-top 1s ease;
+    transition: margin-top 1s ease;
+    cursor: auto;
+}
