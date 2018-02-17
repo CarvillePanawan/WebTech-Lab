@@ -1,22 +1,14 @@
 # WebTech-Lab
 9325B 
 
-Deadline: Feb. 9 2018
-Notes:
-1. Please validate your CSS
-2. Ensure that your CSS is compatible with any browser.
-
 To do:
 ------------------------------------------------------------------------------------------------------------------------------------------
-1. CSS Advocacy 1: Human Rights(Agen, Hendrix||Uy, David)
-2. CSS Advocacy 2: Gender Equality(San Juan, Jan Paula||Cruz, Vincent)
-3. CSS Advocacy 3: Environmental Protection(Panawan, Carville)
+1. Apache HTTP Server: Panawan
+2. IIS Web Server: Vincent
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Done:
-1. HTML Advocacy 1: Human Rights
-2. HTML Advocacy 2: Gender Equality
-3. HTML Advocacy 3: Environmental Protection
+1. All of the websites
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
