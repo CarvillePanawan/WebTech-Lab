@@ -2,7 +2,7 @@ body {
     background: url("background 6.png") no-repeat center fixed; 
     background-size: cover;
     color: white;
-    font-family: "Courier New"
+    font-family: "Courier New";
     text-shadow: 1px 1px skyblue;
 }
 
@@ -122,9 +122,8 @@ li a.Five{
 }
 
 .mySlides {
-        opacity: 0.5;
+    opacity: 0.5;
     filter: alpha(opacity=50);
-    
     width: 25%;
     height: 25%;
 
