@@ -1,40 +1,40 @@
 body {
-    background: url("background 6.png") no-repeat center fixed; 
+    background: url("Alternate.jpg") no-repeat center fixed; 
     background-size: cover;
-    color: cyan;
-    font-family: "Courier New";
-    text-shadow: 1px 1px hotpink;
+    color:white;
+    font-family: "Helvetica";
+    text-shadow: 4px 4px 8px black;
 }
 
 h1 {
     font-family: "Helvetica";
-    color: aqua;
-    text-shadow: 1px 1px lightpink;
+    text-shadow: 4px 4px 8px blue;
 }
 
 h2{
     font-family: "Verdana";
-    color: aqua;
-    text-shadow: 1px 1px lightpink;
+    text-shadow: 3px 3px 6px red;
 }
 
 h3 {
     font-family: "Verdana";
-    color: aqua;
-    text-shadow: 1px 1px lightpink;
+    text-shadow: 3px 3px 6px red;
 }
 
 h6 {
     text-align: center;
     color: aqua;
     font-size: 12px;
-    text-shadow: 1px 1px lightpink;
 }
 
 #content {
-    text-align: left;
+    text-align: center;
     font-family: "Verdana";
     font-size: 50px;
+    background-color: cornflowerblue;
+    box-shadow: 10px 10px 5px darkgray;
+    text-shadow: 5px 5px 10px black;
+    
 }
 
 #buttons {
@@ -46,8 +46,7 @@ h6 {
 }
 
 li a {
-    color: greenyellow;
-    text-shadow: 1px 1px green;
+    color: white;
 }
 
 li a.one:hover{
@@ -124,12 +123,13 @@ li a.Five{
 .mySlides {
     opacity: 0.5;
     filter: alpha(opacity=50);
-    width: 25%;
-    height: 25%;
-
+   
+    width: 30%;
+    height: 30%;
+    
 }
 
-.mySlides:hover {
+.mySlides:hover  {
     opacity: 1.0;
     filter: alpha(opacity=100);
     background-color: white;
@@ -138,6 +138,5 @@ li a.Five{
 
 #footer {
     color: aqua;
-    text-shadow: 1px 1px lightpink;
 }
 
