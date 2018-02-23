@@ -3,11 +3,7 @@
     padding-bottom: 5%;
     padding-left: 5%;
     display: grid;
-<<<<<<< HEAD
     grid-template-columns: 30% 30% 30%;
-=======
-    grid-template-columns: 1fr 1fr 1fr;
->>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
     grid-gap: 3%;
     color: #444;
 }

@@ -1,16 +1,37 @@
+* {
+    -webkit-animation: fadein 1s;
+    -moz-animation: fadein 1s;
+    -ms-animation: fadein 1s;
+    -o-animation: fadein 1s;
+    animation: fadein 1s;
+    margin: 0;
+    padding: 0;
+}
+@-webkit-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-moz-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-ms-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-o-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+
 body {
-<<<<<<< HEAD
     margin-top: 100vh;
-    height: 75.5vh;
+    height: 75vh;
     padding: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-=======
-    height: 75.5vh;
-    padding: 0;
-    margin: 100vh 0 0 0 ;
->>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
     background-image: url(../styles/images/index.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -99,11 +120,7 @@ footer {
 
 #middle {
     float: left;
-<<<<<<< HEAD
-    width: 33.07%;
-=======
-    width: 33.33%;
->>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
+    width: 33.1%;
     height: 50vh;
     display: block;
     top: 100%;
@@ -140,7 +157,7 @@ footer {
 
 #right {
     float: right;
-    width: 33.04%;
+    width: 33%;
     height: 50vh;
     display: block;
     top: 100%;

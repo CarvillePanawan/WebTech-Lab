@@ -1,3 +1,31 @@
+* {
+    -webkit-animation: fadein 1s;
+    -moz-animation: fadein 1s;
+    -ms-animation: fadein 1s;
+    -o-animation: fadein 1s;
+    animation: fadein 1s;
+}
+@-webkit-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-moz-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-ms-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@-o-keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+@keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
+
 body {
     font-family: "Century Gothic", sans-serif;
     margin: 0;
@@ -82,6 +110,74 @@ footer {
     background-color: rgba(255,255,255,0.5);
 }
 
+h1 {
+    font-size: 1.5em;
+    text-indent: 2em;
+    text-align: left;
+    background-color: #06406c;
+    color: #fff;
+    position: absolute;
+    left: -1%;
+    display: block;
+    overflow: auto;
+    padding: 0.25em;
+    padding-right: 2em;
+    -webkit-box-shadow: 10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow:    10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+    box-shadow:         10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+}
+
+h2 {
+    font-size: 1.5em;
+    text-indent: 2em;
+    text-align: right;
+    background-color: #06406c;
+    color: #fff;
+    position: absolute;
+    right: -1%;
+    display: block;
+    overflow: auto;
+    padding: 0.25em;
+    padding-right: 2em;
+    -webkit-box-shadow: 10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow:    10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+    box-shadow:         10px 7px 3px 1px rgba(0, 0, 0, 0.75);
+}
+
+p {
+    width: 80%;
+    position: relative;
+    left: 5%;
+    font-size: 1.5em;
+    text-indent: 2em;
+    padding-top: 4em;
+    margin-bottom: 4em;
+    color: #0d014d;
+}
+
+p r {
+    float: right;
+}
+
+#le {
+    width: 50%;
+    position: relative;
+    font-size: 1em;
+    left: 1%;
+    float: left;
+    display: block;
+}
+
+#ri {
+    width: 50%;
+    position: relative;
+    font-size: 1em;
+    right: 10%;
+    margin-right: -20%;
+    float: right;
+    display: block;
+}
+
 .d_button {
     color: #FFFFFF;
     background-color: #000;
@@ -90,11 +186,7 @@ footer {
     font-size: 100%;
     font-weight: bolder;
     line-height: 50%;
-<<<<<<< HEAD
-    padding: 0.2em;
-=======
     padding: 8ez;
->>>>>>> 05d62907b3330576897e416ba9931a40f594b4f1
 }
 
 .drop_top {
@@ -161,73 +253,5 @@ footer {
 }
 
 .drop_top:hover .drop_content {
-    display: block;
-}
-
-h1 {
-    font-size: 1.5em;
-    text-indent: 2em;
-    text-align: left;
-    background-color: #06406c;
-    color: #fff;
-    position: absolute;
-    left: -1%;
-    display: block;
-    overflow: auto;
-    padding: 0.25em;
-    padding-right: 2em;
-    -webkit-box-shadow: 10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow:    10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-    box-shadow:         10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-}
-
-h2 {
-    font-size: 1.5em;
-    text-indent: 2em;
-    text-align: right;
-    background-color: #06406c;
-    color: #fff;
-    position: absolute;
-    right: -1%;
-    display: block;
-    overflow: auto;
-    padding: 0.25em;
-    padding-right: 2em;
-    -webkit-box-shadow: 10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow:    10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-    box-shadow:         10px 7px 3px 1px rgba(0, 0, 0, 0.75);
-}
-
-p {
-    width: 80%;
-    position: relative;
-    left: 5%;
-    font-size: 1.5em;
-    text-indent: 2em;
-    padding-top: 4em;
-    margin-bottom: 4em;
-    color: #0d014d;
-}
-
-p r {
-    float: right;
-}
-
-#le {
-    width: 50%;
-    position: relative;
-    font-size: 1em;
-    left: 1%;
-    float: left;
-    display: block;
-}
-
-#ri {
-    width: 50%;
-    position: relative;
-    font-size: 1em;
-    right: 10%;
-    margin-right: -20%;
-    float: right;
     display: block;
 }
